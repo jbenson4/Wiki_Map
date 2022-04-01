@@ -1,7 +1,7 @@
 WikiMap
 =========
 
-WikiMap is an app to create custom maps and share them with others. It was built with EJS, Express, and PostgreSQL.
+WikiMap is an app to create custom maps and share them with others. It was built with EJS, Express, PostgreSQL, and the Google Maps API.
 
 ## Features
 - Create a profile page with a description and picture of yourself with all of your maps available to see
