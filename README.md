@@ -1,8 +1,13 @@
-Wiki Maps
+WikiMap
 =========
 
+WikiMap is an app to create custom maps and share them with others. It was built with EJS, Express, and PostgreSQL.
+
 ## Features
-- Wiki Maps is a app where you can add markers to maps and save/share them with others.
+- Create a profile page with a description and picture of yourself with all of your maps available to see
+- Create maps with titles and descriptions, adding markers with their own titles, images, and descriptions
+- Add maps to your favourite list, whether they were made by you or someone else
+- Browse a list of many maps made public by other users
 
 ## Getting Started
 
@@ -13,15 +18,15 @@ Wiki Maps
 
 ## Screenshots
 
-<ins>Profile Page</ins>
+<ins>Profile Page:</ins>
 
 <img src="https://github.com/jbenson4/Wiki_Map/blob/master/docs/wiki-maps-profile.png?raw=true"/>
 
-<ins>Map Details Page</ins>
+<ins>Map Details Page:</ins>
 
 <img src="https://github.com/jbenson4/Wiki_Map/blob/master/docs/wiki-maps-map-details.png?raw=true" />
 
-<ins>Adding a Marker</ins>
+<ins>Adding a Marker:</ins>
 
 <img src="https://github.com/jbenson4/Wiki_Map/blob/master/docs/wiki-maps-adding-pins.png?raw=true" />
 
